@@ -1,0 +1,21 @@
+{
+  "habits": [
+    {
+      "id": 1,
+      "name": "Bangun sebelum jam 9",
+      "description": "Tertawa dulu yuk!",
+      "weekly_progress": [true, false, true, false, true, false, false]
+    },
+    {
+      "id": 2,
+      "name": "Ngoding minimal 1 jam",
+      "description": "Wah, kamu manusia ternyata",
+      "weekly_progress": [true, true, true, true, false, true, false]
+    }
+  ],
+  "statistics": {
+    "current_streak": 3,
+    "longest_streak": 7,
+    "completion_rate": 0.65
+  }
+}

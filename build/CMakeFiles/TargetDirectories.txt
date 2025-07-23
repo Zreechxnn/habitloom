@@ -1,0 +1,4 @@
+D:/cpp/habitloom/build/CMakeFiles/HabitLoom.dir
+D:/cpp/habitloom/build/CMakeFiles/INSTALL.dir
+D:/cpp/habitloom/build/CMakeFiles/ALL_BUILD.dir
+D:/cpp/habitloom/build/CMakeFiles/ZERO_CHECK.dir

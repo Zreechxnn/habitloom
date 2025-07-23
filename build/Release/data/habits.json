@@ -1,0 +1,121 @@
+{
+    "habits": [
+        {
+            "description": "Tertawa dulu yuk!",
+            "id": 1,
+            "name": "Bangun sebelum jam 9",
+            "weekly_progress": [
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        },
+        {
+            "description": "Wah, kamu manusia ternyata",
+            "id": 2,
+            "name": "Ngoding minimal 1 jam",
+            "weekly_progress": [
+                true,
+                true,
+                false,
+                true,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "description": "Merenung tentang arti eksistensi sambil ngopi",
+            "id": 3,
+            "name": "Kontemplasi 10 menit",
+            "weekly_progress": [
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true
+            ]
+        },
+        {
+            "description": "Karena hidup perlu dihapus ulang",
+            "id": 4,
+            "name": "Refleksi Diri Sebelum Tidur",
+            "weekly_progress": [
+                true,
+                false,
+                true,
+                false,
+                false,
+                false,
+                true
+            ]
+        },
+        {
+            "description": "Menatap langit, berharap jawaban turun dari awan",
+            "id": 5,
+            "name": "Keluar rumah walau 5 menit",
+            "weekly_progress": [
+                false,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false
+            ]
+        },
+        {
+            "description": "Membaca 1 halaman buku yang tidak akan diselesaikan",
+            "id": 6,
+            "name": "Baca buku random",
+            "weekly_progress": [
+                true,
+                false,
+                true,
+                true,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "description": "Tertawa palsu biar otak percaya bahagia",
+            "id": 7,
+            "name": "Fake laugh therapy",
+            "weekly_progress": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "description": "Menulis sesuatu yang tak dibaca siapa-siapa",
+            "id": 8,
+            "name": "Menulis jurnal absurd",
+            "weekly_progress": [
+                false,
+                true,
+                false,
+                false,
+                true,
+                false,
+                true
+            ]
+        }
+    ],
+    "statistics": {
+        "completion_rate": 0.65,
+        "current_streak": 0,
+        "longest_streak": 7
+    }
+}

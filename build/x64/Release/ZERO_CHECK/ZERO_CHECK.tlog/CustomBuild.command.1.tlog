@@ -1,0 +1,10 @@
+^D:\CPP\HABITLOOM\BUILD\CMAKEFILES\9B354E259FEB6035A051A8A3FC1B31A9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/cpp/habitloom -BD:/cpp/habitloom/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/cpp/habitloom/build/HabitLoom.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

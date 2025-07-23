@@ -1,0 +1,58 @@
+QMainWindow {
+    background-color: #2c001e;
+    border: 2px solid #ff0055;
+}
+
+QListWidget {
+    background-color: #1a0012;
+    border: 2px solid #ff0055;
+    color: #ff0055;
+    font-family: "Impact";
+}
+
+QCheckBox {
+    color: #ff0055;
+    font-family: "Impact";
+    font-size: 14px;
+}
+
+QCheckBox::indicator {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #ff0055;
+    background: #1a0012;
+}
+
+QCheckBox::indicator:checked {
+    background: #ff0055;
+}
+
+QPushButton {
+    background-color: #ff0055;
+    color: #000000;
+    font-weight: bold;
+    border: none;
+    padding: 8px;
+    font-family: "Courier New";
+}
+
+QPushButton:hover {
+    background-color: #ff3388;
+}
+
+QStatusBar {
+    background-color: #1a0012;
+    color: #ff0055;
+    font-family: "Arial Black";
+}
+
+QProgressBar {
+    border: 2px solid #ff0055;
+    border-radius: 0px;
+    text-align: center;
+    color: #ff0055;
+}
+
+QProgressBar::chunk {
+    background-color: #ff0055;
+}

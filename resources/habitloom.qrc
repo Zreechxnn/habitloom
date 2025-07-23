@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>styles/kantian.qss</file>
+        <file>styles/nietzschean_rage.qss</file>
+        <file>styles/minimalis_palsu.qss</file>
+        <file>icons/app_icon.png</file>
+    </qresource>
+</RCC>
